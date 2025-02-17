@@ -1,8 +1,7 @@
-👋 Hello, I'm Satwika Kadiyala!
+AI/ML Enthusiast 🤖 | Data Science Explorer 📊 | Ex-Intern at Airbus 🚀
 
-🚀 I'm passionate about leveraging data to drive insights and innovation. With a solid foundation in SQL, Python, NumPy, Pandas, and Matplotlib, I specialize in data analysis, manipulation, and visualization. I have extensive experience crafting compelling data stories using tools like Power BI, Tableau, Qlik Sense, and QuickSight.
+Passionate about Artificial Intelligence 💡, Machine Learning 🧠, and Data Science 📚. Experienced in Python, TensorFlow, PyTorch, Pandas, NumPy, Matplotlib, and Scikit-learn for building and deploying models. Proficient in supervised and unsupervised learning, deep learning, and NLP 🔍.
 
-🔧 Additionally, As an AWS Certified Cloud Practitioner and Certified Developer Associate, I excel in designing and deploying scalable solutions on the AWS Cloud.
+Interned at Airbus as a DevOps Intern 🛠️, gaining hands-on experience in Java, Spring Boot, JUnit, Groovy Scripting, Docker 🐳, GitHub 🐙, PostgreSQL, and OracleDB. I worked on streamlining CI/CD pipelines, containerizing applications, and automating processes to enhance development and deployment efficiency.
 
-Let's connect and collaborate on exciting data-driven initiatives!
-
+Skilled in cloud computing ☁️ with AWS, Kubernetes ☸️, and contributing to open-source projects. Constantly exploring ways to apply AI/ML in solving real-world challenges. Excited to learn, collaborate, and grow in the fields of AI, ML, and DevOps.
