@@ -1,7 +1,26 @@
-AI/ML Enthusiast 🤖 | Data Science Explorer 📊 | Ex-Intern at Airbus 🚀
 
-Passionate about Artificial Intelligence 💡, Machine Learning 🧠, and Data Science 📚. Experienced in Python, TensorFlow, PyTorch, Pandas, NumPy, Matplotlib, and Scikit-learn for building and deploying models. Proficient in supervised and unsupervised learning, deep learning, and NLP 🔍.
+# 🚀 AI/ML Enthusiast | Data Science Explorer 📊 | Ex-Intern at Airbus ✈️  
 
-Interned at Airbus as a DevOps Intern 🛠️, gaining hands-on experience in Java, Spring Boot, JUnit, Groovy Scripting, Docker 🐳, GitHub 🐙, PostgreSQL, and OracleDB. I worked on streamlining CI/CD pipelines, containerizing applications, and automating processes to enhance development and deployment efficiency.
+## 🌟 About Me  
+Passionate about Artificial Intelligence 💡, Machine Learning 🧠, and Data Science 📚.  
+Experienced in building and deploying models using:  
+🔹 Python, TensorFlow, PyTorch, Pandas, NumPy, Matplotlib, Scikit-learn  
+🔹 Skilled in Supervised & Unsupervised Learning, Deep Learning, NLP 🔍  
 
-Skilled in cloud computing ☁️ with AWS, Kubernetes ☸️, and contributing to open-source projects. Constantly exploring ways to apply AI/ML in solving real-world challenges. Excited to learn, collaborate, and grow in the fields of AI, ML, and DevOps.
+## 💼 Work Experience  
+🔹 DevOps Intern at Airbus 🛠️  
+Gained hands-on experience in:  
+✔ Java, Spring Boot, JUnit, Groovy Scripting  
+✔ Docker 🐳, GitHub 🐙, PostgreSQL, OracleDB  
+✔ Streamlined CI/CD Pipelines, containerized applications, and automated workflows  
+
+## ☁️ Cloud & DevOps Skills  
+🚀 Cloud Platforms: AWS, Kubernetes ☸️  
+🔹 Infrastructure as Code: Terraform, Helm  
+🔹 CI/CD & Automation: Jenkins, Ansible, GitHub Actions  
+
+## 📌 Interests & Learning  
+🔹 Exploring AI/ML applications in real-world problem-solving  
+🔹 Contributing to open-source projects  
+🔹 Learning new technologies and scaling cloud applications  
+
