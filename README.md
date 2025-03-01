@@ -8,7 +8,7 @@ Experienced in building and deploying models using:
 🔹 Skilled in Supervised & Unsupervised Learning, Deep Learning, NLP 🔍  
 
 ## 💼 Work Experience  
-🔹 DevOps Intern at Airbus 🛠️  
+🔹 Intern at Airbus 🛠️  
 Gained hands-on experience in:  
 ✔ Java, Spring Boot, JUnit, Groovy Scripting  
 ✔ Docker 🐳, GitHub 🐙, PostgreSQL, OracleDB  
