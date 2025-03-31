@@ -10,8 +10,8 @@ Experienced in building and deploying models using:
 ## 💼 Work Experience  
 🔹 Intern at Airbus 🛠️  
 Gained hands-on experience in:  
-✔ Java, Spring Boot, JUnit, Groovy Scripting  
-✔ Docker 🐳, GitHub 🐙, PostgreSQL, OracleDB  
+✔ Python, Pyspark, Scikit-learn, NLP, 
+✔ Docker 🐳, GitHub 🐙, Tableau, Matplotlib  
 ✔ Streamlined CI/CD Pipelines, containerized applications, and automated workflows  
 
 ## ☁️ Cloud & DevOps Skills  
