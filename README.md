@@ -1,5 +1,5 @@
 
-# 🚀 AI/ML Enthusiast | Data Science Explorer 📊 | Ex-Intern at Airbus ✈️  
+# 🚀 AI/ML Enthusiast | Data Science Explorer 📊 | Intern at Airbus ✈️  
 
 ## 🌟 About Me  
 Passionate about Artificial Intelligence 💡, Machine Learning 🧠, and Data Science 📚.  
